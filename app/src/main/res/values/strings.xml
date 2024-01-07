@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Feedback_3A</string>
+    <string name="video">Reproductor de Video</string>
+    <string name="pantalla_grabacion">Grabacion de Audio</string>
+    <string name="stop_grabar">Stop</string>
+    <string name="play_video">Play Video</string>
+    <string name="rec_audio">Rec</string>
+    <string name="imagen_video">imagen video</string>
+</resources>
